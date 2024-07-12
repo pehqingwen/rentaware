@@ -1,0 +1,422 @@
+[
+    {
+        "productID": "P001",
+        "brand": "Convotherm",
+        "productName": "Convotherm Combi Oven 10 Trays",
+        "productDescription": "Cooking appliance for automatically cooking (Automatic mode) meat, poultry, fish, side dishes/vegetables, egg dishes/desserts, bakery products and for automatic finishing®. With an intelligent system for optimising mixed loads in production and in à la carte service as well as a fully automatic cleaning and care system.",
+        "price": 14000,
+        "rent": 124,
+        "imageURL": "https://www.qson.sg/wp-content/uploads/2020/11/combi-oven.jpg",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P002",
+        "brand": "Paijuke",
+        "productName": "Three-layer 3 trays electric oven",
+        "productDescription": "Utilising electric power source, the model WDB-3-3 has a voltage of 220V, capacity of more than 41Litres, has 3 separate ovens and 6 heating elements. Made of stainless steel, digital timer control, and measures 930 by 800 by 1227 mm.",
+        "price": 3100,
+        "rent": 52,
+        "imageURL": "https://cntronic.com/data/product/lg/ila-108917-1.jpg",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P003",
+        "brand": "Fisher & Paykel",
+        "productName": "10 Tray Combi Steam Oven",
+        "productDescription": "GN 10 Tray Combi Steam Oven GN 1/1 with base, water connection in/out required, fan assisted cooking function, steam function, cooking & steam combination function, regeneration hot air & steam function.",
+        "price": 2750,
+        "rent": 46,
+        "imageURL": "https://www.lowerental.com/media/8162/gn-combi10e.png?mode=max&width=375&height=375&upscale=false&rnd=133420218810000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P004",
+        "brand": "Anvil",
+        "productName": "Floor Standing Dual Deep Fat Fryer",
+        "productDescription": "Stainless steel dual deep fat fryer with rubber feet, built-in storage, and simple dial control.",
+        "price": 1750,
+        "rent": 29,
+        "imageURL": "https://www.lowerental.com/media/7930/def28.png?mode=max&width=375&height=375&upscale=false&rnd=133416637390000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P005",
+        "brand": "Anvil",
+        "productName": "1 Door Warmer Cart",
+        "productDescription": "Stainless steel single door hot holding mobile food warming cart, 22 X GN 1/1 Pan , with pan depth up to 100mm.",
+        "price": 1550,
+        "rent": 26,
+        "imageURL": "https://www.lowerental.com/media/7931/gn-1dw.png?mode=max&width=375&height=375&upscale=false&rnd=133416638830000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P006",
+        "brand": "Anvil",
+        "productName": "2 Door Warmer Cart",
+        "productDescription": "Stainless steel double door hot holding mobile food warming cart, 44 X GN 1/1 Pan, with pan depth up to 100mm.",
+        "price": 2750,
+        "rent": 46,
+        "imageURL": "https://www.lowerental.com/media/7932/gn-2dw.png?mode=max&width=375&height=375&upscale=false&rnd=133416639480000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P007",
+        "brand": "Anvil",
+        "productName": "Electric Flat Hot Plate",
+        "productDescription": "Electrical stainless steel table top flat hotplate with ABS control dial, large cooking area (high output), 2 independently-controlled cooking area, easy to clean surface, and made of stainless steel.",
+        "price": 2250,
+        "rent": 38,
+        "imageURL": "https://www.lowerental.com/media/7946/h9a.png?mode=max&width=375&height=375&upscale=false&rnd=133416709010000000",
+        "categories": "cookware"
+    },
+    {
+        "productID": "P008",
+        "brand": "Anova",
+        "productName": "4 Tray Convention Oven",
+        "productDescription": "Stainless steel GN 1/1 4 tray convection oven, 4 wire oven racks supplied, stainless steel finish, electronic thermostat, digital read out, grill element, halogen oven light, fan assisted cooking (upper grill function).",
+        "price": 3450,
+        "rent": 58,
+        "imageURL": "https://www.lowerental.com/media/8063/h17c.png?mode=max&width=375&height=375&upscale=false&rnd=133420000180000000",
+        "categories": "cookware"
+    },
+    {
+        "productID": "P009",
+        "brand": "Vulcan",
+        "productName": "Salamander Grill",
+        "productDescription": "Electric stainless steel salamander grill with hard wearing cast iron linings, five position shelf runners, portable, double-cased with internal insulation.",
+        "price": 2450,
+        "rent": 41,
+        "imageURL": "https://www.lowerental.com/media/8064/h18a.png?mode=max&width=375&height=375&upscale=false&rnd=133420004750000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P010",
+        "brand": "Anvil",
+        "productName": "1.2m Stainless Steel Table",
+        "productDescription": "Stainless steel table with 2 tiers of space, hygienic for food service, easy to clean.",
+        "price": 950,
+        "rent": 16,
+        "imageURL": "https://www.lowerental.com/media/8065/h20b-h20c.png?mode=max&width=375&height=375&upscale=false&rnd=133420011370000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P011",
+        "brand": "Anvil",
+        "productName": "1.8m Stainless Steel Table",
+        "productDescription": "Stainless steel table with 2 tiers of space, hygienic for food service, easy to clean.",
+        "price": 1350,
+        "rent": 23,
+        "imageURL": "https://www.lowerental.com/media/8065/h20b-h20c.png?mode=max&width=375&height=375&upscale=false&rnd=133420011370000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P012",
+        "brand": "Anvil",
+        "productName": "1.8m 3 Tier Stainless Steel Table",
+        "productDescription": "Stainless steel table with 3 tiers, hygienic for food service, and easy to clean.",
+        "price": 1750,
+        "rent": 29,
+        "imageURL": "https://www.lowerental.com/media/8066/h20c3t.png?mode=max&width=375&height=375&upscale=false&rnd=133420014340000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P013",
+        "brand": "Anvil",
+        "productName": "1.8m Stainless Steel Table with Upper Deck",
+        "productDescription": "Stainless steel table with 2 upper shelves, 3 tiers of space, hygienic for food service, and easy to clean.",
+        "price": 2250,
+        "rent": 38,
+        "imageURL": "https://www.lowerental.com/media/8067/h20dd.png?mode=max&width=375&height=375&upscale=false&rnd=133420018340000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P014",
+        "brand": "Anvil",
+        "productName": "Stainless Steel Dual Sink",
+        "productDescription": "Double bowl stainless steel sink *Grease trap and water in/out connection can be provided on request, raised upstand & rear lip water inlet/drain, 1 tap, stainless steel finish.",
+        "price": 1250,
+        "rent": 21,
+        "imageURL": "https://www.lowerental.com/media/8070/h21b.png?mode=max&width=375&height=375&upscale=false&rnd=133420028360000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P015",
+        "brand": "Anvil",
+        "productName": "Stainless Steel Single Sink",
+        "productDescription": "Single bowl hand wash station *Grease trap and water in/out connection can be provided on request.",
+        "price": 850,
+        "rent": 14,
+        "imageURL": "https://www.lowerental.com/media/8068/h21a.png?mode=max&width=375&height=375&upscale=false&rnd=133420023070000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P016",
+        "brand": "Fisher & Paykel",
+        "productName": "Counter Top Dual Deck Pizza Oven",
+        "productDescription": "Electric stainless steel dual deck pizza oven, with 8 X 12 inch pizza base, refractory ceramic bottom, with clear control display panel.",
+        "price": 1550,
+        "rent": 26,
+        "imageURL": "https://www.lowerental.com/media/8165/h28b.png?mode=max&width=375&height=375&upscale=false&rnd=133420233460000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P017",
+        "brand": "Fisher & Paykel",
+        "productName": "Pasta Cooker",
+        "productDescription": "Counter Top 6 Basket Pasta Cooker, easy to operate, dial control and drain taps.",
+        "price": 1150,
+        "rent": 19,
+        "imageURL": "https://www.lowerental.com/media/8170/h29a.png?mode=max&width=375&height=375&upscale=false&rnd=133420276600000000",
+        "categories": "cookware"
+    },
+    {
+        "productID": "P018",
+        "brand": "Fisher & Paykel",
+        "productName": "4 Heat Lamp Bridge",
+        "productDescription": "Stainless steel counter top 4 heat lamp bridge warmer, hygienic for food display, stainless steel & easy to clean.",
+        "price": 750,
+        "rent": 13,
+        "imageURL": "https://www.lowerental.com/media/8174/h23a.png?mode=max&width=375&height=375&upscale=false&rnd=133420297900000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P019",
+        "brand": "Fisher & Paykel",
+        "productName": "Counter Top Single Baine Marie",
+        "productDescription": "Stainless steel single GN 1/1 pan bain marie, counter top warmer, stainless steel.",
+        "price": 850,
+        "rent": 14,
+        "imageURL": "https://www.lowerental.com/media/8175/h24a.png?mode=max&width=375&height=375&upscale=false&rnd=133420299530000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P020",
+        "brand": "Anova",
+        "productName": "Counter Top 5 Pan Baine Marie",
+        "productDescription": "5 × GN 1/1 pan 100mm table top bain marie, with manual thermostat setting and heating indicator light.",
+        "price": 1850,
+        "rent": 31,
+        "imageURL": "https://www.lowerental.com/media/8176/h25a.png?mode=max&width=375&height=375&upscale=false&rnd=133420303380000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P021",
+        "brand": "Anova",
+        "productName": "Counter Top Electric Satay Grill",
+        "productDescription": "Stainless steel electronic satay grill, easy to operate, stainless steel.",
+        "price": 1850,
+        "rent": 21,
+        "imageURL": "https://www.lowerental.com/media/8178/h26.png?mode=max&width=375&height=375&upscale=false&rnd=133420308620000000",
+        "categories": "cookware"
+    },
+    {
+        "productID": "P022",
+        "brand": "Anova",
+        "productName": "Counter Top Electric Shawarma Grill",
+        "productDescription": "Electronically operated shawarma grill, easy to operate, stainless steel.",
+        "price": 3850,
+        "rent": 34,
+        "imageURL": "https://www.lowerental.com/media/8177/h27.png?mode=max&width=375&height=375&upscale=false&rnd=133420307340000000",
+        "categories": "cookware"
+    },
+    {
+        "productID": "P023",
+        "brand": "Anova",
+        "productName": "Panini Press",
+        "productDescription": "Stainless steel panini/sandwich press, easy to operate, stainless steel.",
+        "price": 1050,
+        "rent": 18,
+        "imageURL": "https://www.lowerental.com/media/8179/h31a.png?mode=max&width=375&height=375&upscale=false&rnd=133420311270000000",
+        "categories": "cookware"
+    },
+    {
+        "productID": "P024",
+        "brand": "Anova",
+        "productName": "Chafing Dish",
+        "productDescription": "Stainless steel finish roll top chafing dish, attractive stainless steel finish, easy to clean, hygienic for food display and service.",
+        "price": 250,
+        "rent": 4,
+        "imageURL": "https://www.lowerental.com/media/8180/h35.png?mode=max&width=375&height=375&upscale=false&rnd=133420313550000000",
+        "categories": "cookware"
+    },
+    {
+        "productID": "P025",
+        "brand": "Anova",
+        "productName": "Food Trolley",
+        "productDescription": "Food trolley on castors for easy movement, 3 tier shelving, easy to clean & operate.",
+        "price": 150,
+        "rent": 2.5,
+        "imageURL": "https://www.lowerental.com/media/8181/h34c.png?mode=max&width=375&height=375&upscale=false&rnd=133420318220000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P026",
+        "brand": "Anova",
+        "productName": "GN 2/1 Trolley",
+        "productDescription": "Upright mobile GN 2/1 trolley, pans of various sizes and depths, foldable, easy to transport.",
+        "price": 450,
+        "rent": 7.5,
+        "imageURL": "https://www.lowerental.com/media/8183/h34a.png?mode=max&width=375&height=375&upscale=false&rnd=133420325060000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P027",
+        "brand": "Vulcan",
+        "productName": "GN10 Tray (1/1) Blast Chiller/Freezer",
+        "productDescription": "Stainless steel 10 tray blast chiller and freezer, 10 x GN 1/1 Pan (Pan depth up to 100mm), +70°C/3°C in 90 mins, +70°C/-18°C in 240 mins.",
+        "price": 2150,
+        "rent": 36,
+        "imageURL": "https://www.lowerental.com/media/7933/gnbcf.png?mode=max&width=375&height=375&upscale=false&rnd=133416649850000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P028",
+        "brand": "Vulcan",
+        "productName": "Under Counter Ice Machine",
+        "productDescription": "Under counter self-contained ice machine.",
+        "price": 2050,
+        "rent": 34,
+        "imageURL": "https://www.lowerental.com/media/8266/h63-1.png?mode=max&width=375&height=375&upscale=false&rnd=133420978390000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P029",
+        "brand": "Vulcan",
+        "productName": "Dual Plate Warmer",
+        "productDescription": "Dual plate warmer on castors for easy movement, easy to operate.",
+        "price": 1950,
+        "rent": 32.5,
+        "imageURL": "https://www.lowerental.com/media/7937/dpw.png?mode=max&width=375&height=375&upscale=false&rnd=133416675750000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P030",
+        "brand": "Vulcan",
+        "productName": "Rotary Toaster",
+        "productDescription": "Commercial toaster which can produce 300-350 slices per hour, stainless steel exterior, portable.",
+        "price": 1950,
+        "rent": 33,
+        "imageURL": "https://www.lowerental.com/media/7938/h54a.png?mode=max&width=375&height=375&upscale=false&rnd=133416680300000000",
+        "categories": "cookware"
+    },
+    {
+        "productID": "P031",
+        "brand": "Vulcan",
+        "productName": "10L Mixer",
+        "productDescription": "10 Litre Stainless steel mixer, with 3 speed settings, lever operated bowl lift, safety stop function, bowl guard, and stainless steel bowl.",
+        "price": 1550,
+        "rent": 26,
+        "imageURL": "https://www.lowerental.com/media/7941/h44a-1.png?mode=max&width=375&height=375&upscale=false&rnd=133416690290000000",
+        "categories": "bakeware"
+    },
+    {
+        "productID": "P032",
+        "brand": "Vulcan",
+        "productName": "Extractor Hood",
+        "productDescription": "Large stainless steel self-supporting extractor hood, with extremely effective extractor, self-supporting structure, stainless steel material, internal light, and applicable to multiple applications.",
+        "price": 2550,
+        "rent": 23,
+        "imageURL": "https://www.lowerental.com/media/8238/eh21a.png?mode=max&width=375&height=375&upscale=false&rnd=133420938530000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P033",
+        "brand": "Vulcan",
+        "productName": "Electric Hot Plate",
+        "productDescription": "Easy to use counter top electric hot plate, which is portable and easy to operate.",
+        "price": 2000,
+        "rent": 13,
+        "imageURL": "https://www.lowerental.com/media/8240/h14d.png?mode=max&width=375&height=375&upscale=false&rnd=133420941700000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P034",
+        "brand": "Vulcan",
+        "productName": "Chicken Grill & Basket",
+        "productDescription": "Chicken grill with 20 chicken capacity, which is easy to operate & have temperature dials.",
+        "price": 8000,
+        "rent": 103,
+        "imageURL": "https://www.lowerental.com/media/8259/h32-20.png?mode=max&width=375&height=375&upscale=false&rnd=133420974720000000",
+        "categories": "cookware"
+    },
+    {
+        "productID": "P035",
+        "brand": "Fisher & Paykel",
+        "productName": "Electric Rotisserie",
+        "productDescription": "Electric Rotisserie (30 Chicken Capacity), easy to operate with temperature dials and door handle.",
+        "price": 10000,
+        "rent": 111,
+        "imageURL": "https://www.lowerental.com/media/8263/h32-1.png?mode=max&width=375&height=375&upscale=false&rnd=133420976590000000",
+        "categories": "cookware"
+    },
+    {
+        "productID": "P036",
+        "brand": "Fisher & Paykel",
+        "productName": "Meat Slicer (Blade Diameter 300mm)",
+        "productDescription": "Portable aluminium meat slicer, with integral sharpener, built-in guards, adjustable thickness control and anodized aluminium body.",
+        "price": 1200,
+        "rent": 5,
+        "imageURL": "https://www.lowerental.com/media/8272/h36a.png?mode=max&width=375&height=375&upscale=false&rnd=133420979660000000",
+        "categories": "cookware"
+    },
+    {
+        "productID": "P037",
+        "brand": "Fisher & Paykel",
+        "productName": "Blender",
+        "productDescription": "Portable blender with detachable jug, with 3 speed settings.",
+        "price": 500,
+        "rent": 3,
+        "imageURL": "https://www.lowerental.com/media/8278/h43a.png?mode=max&width=375&height=375&upscale=false&rnd=133420989160000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P038",
+        "brand": "Fisher & Paykel",
+        "productName": "Hand Blender",
+        "productDescription": "Easy to use hand held blender, with 3 speed settings, easy to use operation and portable.",
+        "price": 100,
+        "rent": 1.5,
+        "imageURL": "https://www.lowerental.com/media/8279/h43b.png?mode=max&width=375&height=375&upscale=false&rnd=133420991920000000",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P039",
+        "brand": "Desmon",
+        "productName": "Undercounter Chiller",
+        "productDescription": "Refrigerated tables (GN 1/1) with 1 to 4 doors and 6 pass-through doors, ½, 1/3 and 2/3 drawers, neutral or refrigerated drawer on the engine compartment. The range is divided into four fundamental lines: SILVER, GOLD, PLATINUM and IRIDIUM; within which it is possible to choose the most suitable product.",
+        "price": 11000,
+        "rent": 99,
+        "imageURL": "https://www.desmon.it/wp-content/uploads/2022/07/cropped-cropped-tavoli.jpg",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P040",
+        "brand": "Bertos",
+        "productName": "4-BURNERS GAS COOKER POWERED ON 2/1 GN GAS OVEN",
+        "productDescription": "Gas oven with self-stabilized flame burner positioned under the steel ribbed base and adjustable thermostat from 160° to 280°. Oven chamber from AISI 430 with 4-level supports and internal, pressed and ribbed door from stainless steel. Stainless steel Internal chimney and burner from AISI 304 stainless steel. High resistance and double-pressed handles from AISI 304 stainless steel of 20/10 thickness.",
+        "price": 7000,
+        "rent": 56,
+        "imageURL": "https://www.bertos.com/cache/media/2022/03/13718200_4343.jpg/f2b8ade1d4024fbdf28f0606f0814497.WEBP",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P041",
+        "brand": "Bertos",
+        "productName": "6-BURNERS GAS COOKER ON 2/1 GN GAS OVEN",
+        "productDescription": "Gas oven with self-stabilized flame burner positioned under the steel ribbed base and adjustable thermostat from 160° to 280°. Oven chamber from AISI 430 with 4-level supports and internal, pressed and ribbed door from stainless steel. Stainless steel Internal chimney and burner from AISI 304 stainless steel. High resistance and double-pressed handles from AISI 304 stainless steel of 20/10 thickness.",
+        "price": 8300,
+        "rent": 45,
+        "imageURL": "https://www.bertos.com/cache/media/2022/03/13718600_4351.jpg/a94e3da51d710f1c7b61314530d2594d.WEBP",
+        "categories": "cookware, bakeware"
+    },
+    {
+        "productID": "P042",
+        "brand": "Bertos",
+        "productName": "4 BURNER GAS COOKER ON 2/1 ELEC. OVEN",
+        "productDescription": "Electric oven with Incoloy stainless steel resistances with oversize diameter. Grill with salamander function in the upper side and thermostat for the correct regulation of temperature from 50 to 270 °C. Oven chamber from AISI 430 with 4-level supports and internal, pressed and ribbed door from stainless steel. Power indicator and temperature light. High resistance handle from AISI 304 stainless steel of 20/10 thickness. Pressed trays from AISI 304 stainless steel.",
+        "price": 10300,
+        "rent": 80,
+        "imageURL": "https://www.bertos.com/cache/media/2022/05/20705000_g9f4_fe_3223.jpg/a056946b37ab235d64ffe00276ab9b48.WEBP",
+        "categories": "cookware, bakeware"
+    }
+]

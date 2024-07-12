@@ -1,0 +1,13 @@
+/*App = Homepage*/
+
+.App {
+  width: 80%;
+  height: auto; 
+  background-color: white;
+}
+
+.CenteringContainer {
+  display: flex; 
+  justify-content: center;
+
+}

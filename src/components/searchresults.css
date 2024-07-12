@@ -1,0 +1,33 @@
+.layout-searchresults {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+    @media (max-width: 768px) {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+.searchresults-listings-img-container img {
+    top: 0; 
+    left: 0; 
+    height: 100%; 
+    width: 100%; 
+    object-fit: fit;
+    z-index: 1;
+    position: absolute;
+}
+
+.searchresults-listings-img-container {
+    position: relative;
+    width: 100%;
+    padding-top: 60%;
+    overflow: hidden;
+}
+
+.layout-searchresults-sixes {
+    padding: 10px;
+}
+
+.background-searchresults {
+    background-color: rosybrown;
+}

@@ -1,0 +1,137 @@
+.background-image-bakeware {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: -1;
+}
+
+.layout-bakeware-listings {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+    @media (max-width: 768px) {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+.bakeware-listings-image-container,
+.wishlist-popup-img-container {
+    width: 100%;
+    padding-top: 60%;
+    position: relative;
+    overflow: hidden;
+}
+
+.bakeware-listings-image-container {
+    display: inline-block;
+}
+
+.hover-image {
+    width: 100%;
+    height: auto;
+}
+
+.bakeware-listings-image-container:hover {
+    opacity: 1;
+}
+
+.bakeware-listings-image-container img,
+.wishlist-popup-img-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    object-fit: fit;
+}
+
+.layout-bakeware-sixes {
+    padding: 10px;
+}
+
+.pagination-controls {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+
+.background-wishlist-popup {
+    background-color: rgb(241, 217, 190);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+    z-index: 2;
+}
+
+.background-wishlist-popup h3,
+.background-wishlist-popup h5 {
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    place-items: center;
+}
+
+.rental-option-popup {
+    background-color: maroon;
+    z-index: 3;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    border: 2px solid black;
+    overflow: hidden;
+    width: 500px;
+    height: 555px;
+}
+
+.rental-popup-image-container {
+    width: 100%;
+    height: 60%;
+    position: relative;
+    overflow: hidden;
+}
+
+.rental-popup-image-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.image-productname-lease-onhover:hover {
+    cursor: pointer;
+}
+
+.image-productname-lease-onhover p {
+    float: right;
+    font-size: larger;
+    color: white;
+    font-weight: bolder;
+}
+
+.option-purchase, .option-rent {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.option-purchase p, .option-rent p {
+    color: white;
+}
+
+.rental-option-popup h3 {
+    color: white;
+}

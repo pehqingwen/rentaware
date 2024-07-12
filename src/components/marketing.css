@@ -1,0 +1,168 @@
+.marketing-container {
+    width: 100%;
+    position: relative;
+    padding-top: 56.25%;
+    overflow: hidden;
+}
+
+.marketing-container img,
+.marketing-benefit-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: fit;
+    z-index: 1;
+}
+
+.marketing-container .marketing-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    pointer-events: none;
+    z-index: 2;
+    animation: ease-in;
+}
+
+.baking-slogan,
+.cooking-slogan {
+    z-index: 3;
+    position: absolute;
+    animation: ease-in-out;
+    top: 50%;
+    /* Center vertically */
+    left: 50%;
+    /* Center horizontally */
+    transform: translate(-50%, -50%);
+    /* Adjust to center */
+    text-align: center;
+    color: #490206;
+    /* Ensure text color contrasts with the overlay */
+}
+
+/* CSS for slide-in from left */
+@keyframes slideInLeft {
+    from {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+/* slide-in from right */
+@keyframes slideInRight {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+/* slide-in from top */
+@keyframes slideInTop {
+    from {
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+/* slide-in from bottom */
+@keyframes slideInBottom {
+    from {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+/* general animation class */
+.slide-in-left {
+    animation: slideInLeft 1s forwards;
+}
+
+.slide-in-right {
+    animation: slideInRight 1s forwards;
+}
+
+.slide-in-top {
+    animation: slideInTop 1s forwards;
+}
+
+.slide-in-bottom {
+    animation: slideInBottom 1s forwards;
+}
+
+.alternate-marketing-slides {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.marketing-rent-benefits {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0;
+    /* Ensure there's no gap between grid items */
+}
+
+.marketing-benefit-container {
+    width: 100%;
+    position: relative;
+    padding-top: 50%;
+    background-color: gold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.marketing-benefit-icon {
+    filter: invert(1);
+    padding: 10px;
+}
+
+.marketing-benefit-container h2 {
+    z-index: 2;
+    position: absolute;
+    animation: ease-in-out;
+    top: 50%;
+    /* Center vertically */
+    left: 50%;
+    /* Center horizontally */
+    transform: translate(-50%, -50%);
+    /* Adjust to center */
+    text-align: center;
+}
+
+@media (max-width: 612px) {
+    h1 {
+        font-size: 1.5em; 
+    }
+
+    h2 { 
+        font-size: 1.0em;
+    }
+}

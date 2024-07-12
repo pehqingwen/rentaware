@@ -1,0 +1,39 @@
+.outlined-table {
+    width: 100%;                /* Full width to expand the layout */
+    border-collapse: collapse;  /* Collapses border to avoid double lines */
+    border: 2px solid black;    /* Outer border for the whole table */
+    min-width: 600px; 
+}
+
+.outlined-table th, .outlined-table td {
+    border: 1px solid black;    /* Border for each cell */
+    padding: 8px;               /* Padding inside each cell for content */
+    text-align: left;           /* Aligning text to the left, adjust as needed */
+}
+
+.outlined-table thead th {
+    background-color: #f2f2f2;  /* Light grey background for headers */
+    text-align: center;         /* Centering header text */
+}
+
+.white-bg {
+    background-color: white;
+    width: 100%; 
+    overflow-x: auto; /* Enables horizontal scrolling */
+}
+
+.cancel-product-wishlist:hover {
+    cursor: pointer;
+    color: gold;
+}
+
+.quotes-request-bg {
+    background-color: beige;
+    z-index: 3;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    border: 2px solid rgb(107, 9, 9); /* Optional: for better visibility */
+}

@@ -1,0 +1,44 @@
+.rental-form-bg, .purchase-form-bg {
+    display: grid;
+    justify-content: center;
+}
+
+.space-between {
+    display: flex;
+    justify-content: space-between;
+}
+
+.spacing-between-divisions {
+    padding-bottom: 15px;
+}
+
+.spacing-between-divisions p {
+    margin: 0;
+    margin-right: 10px;
+}
+
+.flex-display {
+    display: flex;
+}
+
+.rentalform-img-bg, .purchaseform-img-bg {
+    width: 100%;
+    padding-top: 60%;
+    position: relative;
+    overflow: hidden;
+}
+
+.rentalform-img-bg img, .purchaseform-img-bg img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    object-fit: fit;
+}
+
+.purchase-form-bg h3, .purchase-form-bg h4, .rental-form-bg h3, .rental-form-bg h4, .center {
+    display: flex;
+    justify-content: center;
+}

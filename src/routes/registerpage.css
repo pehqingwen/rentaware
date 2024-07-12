@@ -1,0 +1,22 @@
+.register-account-inputs input, .login-account-inputs input {
+    flex-grow: 1;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.register-form-bg h3, .register-center, .login-form-bg h3, .login-center {
+    text-align: center;
+}
+
+.register-center button, .login-center button {
+    width: 100%; 
+}
+
+.register-form-bg, .login-form-bg {
+    padding: 10px;
+}
+
+.register-form-bg div, .login-form-bg div {
+    padding-bottom: 20px;
+}
