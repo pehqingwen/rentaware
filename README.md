@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Running RentAWare: 
+VSC terminal 1 - npm install, npm start (client) 
+VSC terminal 2 - (server) cd server, nodemon server.js
+VSC terminal 3 - (MySQL db) mysql -u root -p rentaware
